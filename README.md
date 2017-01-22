@@ -30,4 +30,5 @@ In this project, I tried to implement the method provided in the paper. You can 
   - ```testdsift.m``` can help you find the best value for ```binSize``` and ```stepSize```
   - ```testsvm.m``` can help you find the best value for ```lambda``` and ```epsilon```
   - ```testdim.m``` can help you find the best homogeneous kernel map order.
-  Testing accuracy results will be saved in ```test*.mat``` files. You can use ```mesh()``` function to intuitively see how the final accuracy changes when the parameters changes.
+  
+7. Testing accuracy results will be saved in ```test*.mat``` files. You can use ```mesh()``` function to intuitively see how the final accuracy changes when the parameters changes.
